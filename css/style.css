@@ -1,0 +1,33 @@
+h1{
+    /* hair */
+    text-align: center; 
+    /* nails */
+    color: blue;
+    
+}
+body{
+    background-color: aqua;
+}
+.one p{
+    text-align: center;
+    font-size:30px;
+}
+img{
+    margin-left: 500px;
+}
+.hobbies{
+    font-size: 30px;
+    font: 700;
+    border-bottom: 2px solid black;
+    margin-bottom: 15px;
+}
+
+ol {
+    list-style-type: none;
+}
+
+
+.aboutme{
+    display: flex;
+    justify-content: space-around;
+}
