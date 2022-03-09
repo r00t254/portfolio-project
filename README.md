@@ -1,10 +1,10 @@
-# Portfol#
+ Portfol
 This is  website that show history about Mary's Educational backround and hobbies
 Technologies Use
 - HTML & CSS (Bootstrap)
 r00t254.github.io/portfolio-project/
 
-##### Requirements
+Requirements
 git and github
 
 Setup  Instructions and Installation
@@ -13,7 +13,7 @@ Clone this repository to a location in your file system. `
 .Open index.html on your Browser.
 
 
-## Development
+ Development
 
 Want to contribute? Great!
 
@@ -27,7 +27,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - Create a Pull Request
 
 
-## Known Bugs
+ Known Bugs
 There  are no known bugs
 
 
