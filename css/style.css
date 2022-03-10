@@ -33,6 +33,6 @@ ol {
     display: flex;
     justify-content: space-around;
 }
-title{
+.name{
     color: darkblue;
 }
