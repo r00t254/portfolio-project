@@ -20,6 +20,7 @@ img{
     font: 700;
     border-bottom: 2px solid black;
     margin-bottom: 15px;
+    text-decoration: aliceblue;
 }
 
 ol {
@@ -30,4 +31,6 @@ ol {
 .aboutme{
     display: flex;
     justify-content: space-around;
+    
 }
+
